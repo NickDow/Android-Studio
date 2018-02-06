@@ -1,0 +1,4 @@
+#Tue Nov 28 10:24:44 MST 2017
+base.0=/home/miyu1/AndroidStudioProjects/LoginApp/app/build/intermediates/transforms/dexMerger/debug/78
+path.0=classes.dex
+renamed.0=classes.dex
